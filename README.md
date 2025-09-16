@@ -1,4 +1,4 @@
-# BMW Car Sales Data Analysis  <a href="https://public.tableau.com/app/profile/shashwat.sungh/viz/BMW_Car_Sales_Analysis_2010_2024/BMWModelSalesDashboard?publish=yes" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/a768d6bf0a001f03327578ae12f8867e4056cbaf/tableau-software.svg" alt="tableau" width="55" height="40"/></a>  <a href="notebook/BMW_Sales_Analysis.ipynb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="50"/></a>     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="40"  title="Notion"/>
+# BMW Car Sales Data Analysis  <a href="https://public.tableau.com/app/profile/shashwat.sungh/viz/BMWModelSalesPerformanceDashboard/Dashboard1?publish=yes" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/a768d6bf0a001f03327578ae12f8867e4056cbaf/tableau-software.svg" alt="tableau" width="55" height="40"/></a>  <a href="notebook/BMW-Car-Sales-Data-Analysis.ipynb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="50"/></a>    <a href="https://www.kaggle.com/datasets/y0ussefkandil/bmw-sales2010-2024" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" alt="python" width="45" height="50"/></a>
 
 ## About This Project  
 This project dives into the analysis of BMW car sales data from **2010 to 2024**, covering multiple models, regions, and segmentation factors. The aim is to uncover performance trends, model rankings, regional revenue distribution, and behavioral insights through an **interactive Tableau dashboard**.  
@@ -76,7 +76,8 @@ By evaluating sales and revenue trends, model performance, and segmentation brea
 ## Dashboard Screenshots  
 
 ### BMW Model Sales Dashboard (2010–2024)  
-![BMW Model Sales Dashboard](https://github.com/ShashwatAnalyst/BMW-Car-Sales-Data-Analysis/blob/main/docs/BMW_Model_Sales_Dashboard.png?raw=true)  
+![BMW Model Sales Dashboard](https://github.com/ShashwatAnalyst/BMW-Car-Sales-Data-Analysis/blob/main/dashboard/Screenshot%202025-09-16%20140013.png?raw=true)  
+![BMW Model Sales Dashboard](https://github.com/ShashwatAnalyst/BMW-Car-Sales-Data-Analysis/blob/main/dashboard/Screenshot%202025-09-16%20140046.png?raw=true)  
 
 ---
 
@@ -90,8 +91,10 @@ By evaluating sales and revenue trends, model performance, and segmentation brea
 ---
 
 ## Important Links  
-- [View Live Tableau Dashboard](https://public.tableau.com/app/profile/shashwat.sungh/viz/BMW_Car_Sales_Analysis_2010_2024/BMWModelSalesDashboard?publish=yes)  
-- [Open Main Jupyter Notebook](notebook/BMW_Sales_Analysis.ipynb)  
+- [View Live Tableau Dashboard](https://public.tableau.com/app/profile/shashwat.sungh/viz/BMWModelSalesPerformanceDashboard/Dashboard1?publish=yes)  
+- [Open Main Jupyter Notebook](notebook/BMW-Car-Sales-Data-Analysis.ipynb)  
+- [Kaggle Dataset: BMW Sales (2010–2024)](https://www.kaggle.com/datasets/y0ussefkandil/bmw-sales2010-2024)  
+
 
 ---
 
